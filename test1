@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+    pritf("This is my first test\n");
+    return 0;
+}
